@@ -10,6 +10,9 @@ npm install # or yarn install
 ```
 
 ## Usage
-Put your code inside `src/`, and run `npm start # or yarn start`.
+Put your code inside `src/`, and run
+```bash
+npm start # or yarn start
+```
 
 If everything's ok, your transpiled code is in `dist/`, and the app is running
