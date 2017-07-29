@@ -1,4 +1,4 @@
-# (nodejs-babel-basic-boilerplate)[https://github.com/rgehan/nodejs-babel-basic-boilerplate]
+# [nodejs-babel-basic-boilerplate](https://github.com/rgehan/nodejs-babel-basic-boilerplate)
 
 This is a really simple starting NodeJS app. It makes use of Babel in order to support the latest features of the language.
 
